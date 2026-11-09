@@ -1,0 +1,5 @@
+# Require contributors to use an issue template
+blank_issues_enabled: false
+
+# Optional links to external support or documentation
+contact_links: []
